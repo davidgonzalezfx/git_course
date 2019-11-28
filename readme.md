@@ -151,6 +151,9 @@ git diff
 
 ## Github
 #### Conecta con tu computadora (local)
+##### Https vs SSH
+#### Tags y versiones
+#### Manejo de ramas en Github
 ##### `git clone` 
 ##### `git remote`
 ##### `git pull` - `git push`
