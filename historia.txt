@@ -5,3 +5,5 @@ Este fue escrito en local antes de traer los cambios remotos.
 David Gonzalez tiene 20 años y nació en Colombia
 
 Mañana nos enfocaremos en su vida laboral
+
+Quiero ver que ocurre cuando alguien hace cambios al remoto y qué ocurre en local
