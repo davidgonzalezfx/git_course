@@ -1,5 +1,7 @@
 Esta es la historia de David Gonzalez
 
+Este fue escrito en local antes de traer los cambios remotos.
+
 David Gonzalez tiene 20 años y nació en Colombia
 
 Mañana nos enfocaremos en su vida laboral
