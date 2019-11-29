@@ -169,3 +169,5 @@ git diff
  - Advice: es genial estudiar tomando mate
  
  Esto es solo para ver como muestra Github las ramas desde "network"
+
+ - Desps del ultimo merge con hot-fix
