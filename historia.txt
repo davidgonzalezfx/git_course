@@ -2,6 +2,8 @@ Esta es la historia de David Gonzalez
 
 Este fue escrito en local antes de traer los cambios remotos. Y esto fue el segundo intento. En el tercer intento primero hice pull. No deberia ocurrir nada raro.
 
+En el intento 4 otra vez primero hago cambios en local y luego intento hacer un pull.
+
 David Gonzalez tiene 20 años y nació en Colombia
 
 Mañana nos enfocaremos en su vida laboral
