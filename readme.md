@@ -165,3 +165,5 @@ git diff
 
  - creditos al maravillos Platzi Team
  - creditos x2
+ - algo más para añadir
+ - Advice: es genial estudiar tomando mate
