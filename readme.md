@@ -166,7 +166,6 @@ git diff
  - creditos al maravillos Platzi Team
  - creditos x2
  - algo más para añadir
- - Advice: es genial estudiar tomando mate
  
  Esto es solo para ver como muestra Github las ramas desde "network"
  Entonces vamos a ver si lo verde es por lo cambios hechos desde github.
