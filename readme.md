@@ -173,3 +173,5 @@ git diff
  Parece que es un simple cuestion de estetica. Uno verde uno rojo, uno verde uno rojo...(Espero que este no tenga conflictos)
 
 commit from master
+ commit 1
+ commit 2
