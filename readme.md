@@ -169,6 +169,7 @@ git diff
  - Advice: es genial estudiar tomando mate
  
  Esto es solo para ver como muestra Github las ramas desde "network"
-
+ 2do intento porque no funciono
  - Desps del ultimo merge con hot-fix
  - Antes del 2do merge
+
