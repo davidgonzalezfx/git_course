@@ -163,3 +163,5 @@ git diff
 ##### Fork
 #### Github pages
 
+ - creditos al maravillos Platzi Team
+ - creditos x2
